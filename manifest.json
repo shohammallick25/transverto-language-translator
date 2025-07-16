@@ -1,10 +1,11 @@
 {
-  "name": "Transverto - Language Translator",
-  "short_name": "🔄Transverto🌐",
-  "start_url": "./index.html",
+  "name": "Transverto-Lang Translator",
+  "short_name": "Transverto",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#007BFF",
+  "theme_color": "#007bff",
+  "description": "Multilingual translator with document support.",
   "icons": [
     {
       "src": "images/logo.png",
